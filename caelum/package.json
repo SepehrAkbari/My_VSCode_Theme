@@ -1,0 +1,21 @@
+{
+  "name": "caelum",
+  "displayName": "Caelum",
+  "description": "Caelum's Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Caelum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Caelum-color-theme.json"
+      }
+    ]
+  }
+}
